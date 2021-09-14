@@ -15,7 +15,7 @@ nytprof.out
 
 # Dizt::Zilla
 /.build/
-
+.vscode/
 # Module::Build
 _build/
 Build
